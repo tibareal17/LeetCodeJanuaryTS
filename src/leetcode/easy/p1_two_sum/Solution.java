@@ -1,7 +1,5 @@
 package leetcode.easy.p1_two_sum;
 
-import java.util.Hashtable;
-
 public class Solution {
     public int[] twoSum(int[] nums, int target) {
         for (int i = 0; i < nums.length; i++) {
