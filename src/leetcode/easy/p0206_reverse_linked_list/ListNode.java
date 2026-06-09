@@ -1,4 +1,4 @@
-package leetcode.easy.p206_reverse_linked_list;
+package leetcode.easy.p0206_reverse_linked_list;
 
 public class ListNode {
     public int val;

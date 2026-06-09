@@ -1,4 +1,4 @@
-package leetcode.easy.p242_valid_anagram;
+package leetcode.easy.p0242_valid_anagram;
 
 public class Solution {
     public boolean isAnagram(String s, String t) {

@@ -1,5 +1,6 @@
-package leetcode.easy.p20_valid_parentheses;
+package leetcode.easy.p0020_valid_parentheses;
 
+import java.util.Arrays;
 import java.util.Stack;
 
 public class Solution {
@@ -38,4 +39,5 @@ public class Solution {
         }
         return stack.isEmpty();
     }
+
 }

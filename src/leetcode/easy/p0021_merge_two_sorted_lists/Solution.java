@@ -1,6 +1,6 @@
-package leetcode.easy.p21_merge_two_sorted_lists;
+package leetcode.easy.p0021_merge_two_sorted_lists;
 
-import leetcode.easy.p206_reverse_linked_list.ListNode;
+import leetcode.easy.p0206_reverse_linked_list.ListNode;
 
 public class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {

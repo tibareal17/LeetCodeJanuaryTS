@@ -1,4 +1,4 @@
-package leetcode.easy.p217_contains_duplicate;
+package leetcode.easy.p0217_contains_duplicate;
 
 import java.util.HashSet;
 import java.util.Set;

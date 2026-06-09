@@ -1,4 +1,4 @@
-package leetcode.medium.p167_two_sum_ii;
+package leetcode.medium.p0167_two_sum_ii;
 
 public class SolutionBruteForce {
     public int[] twoSum(int[] numbers, int target) {

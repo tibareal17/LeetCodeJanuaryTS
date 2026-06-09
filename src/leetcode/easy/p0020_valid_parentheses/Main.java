@@ -1,4 +1,4 @@
-package leetcode.easy.p20_valid_parentheses;
+package leetcode.easy.p0020_valid_parentheses;
 
 import java.util.Scanner;
 

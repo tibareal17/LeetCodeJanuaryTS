@@ -1,6 +1,6 @@
-package leetcode.easy.p141_linked_list_cycle;
+package leetcode.easy.p0141_linked_list_cycle;
 
-import leetcode.easy.p206_reverse_linked_list.ListNode;
+import leetcode.easy.p0206_reverse_linked_list.ListNode;
 
 public class Solution {
     public boolean hasCycle(ListNode head) {
